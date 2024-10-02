@@ -1,5 +1,4 @@
-// Create eventListener to all the button 
-// All button should be able to play a different sound.
+
 const wkey=document.querySelector('.w');
 const akey=document.querySelector('.a');
 const skey=document.querySelector('.s');
